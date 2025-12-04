@@ -5,6 +5,7 @@ function getUserDetails(id) {
         }, 2000);
     });
 }
+// ffgggg
 
 const myfun = async () => {
     console.log("123");
